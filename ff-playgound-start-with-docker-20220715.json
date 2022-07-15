@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 409,
+      "ypos": 150,
+      "width": 122,
+      "height": 138,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ff-playgound-start-with-docker"
+  ]
+}
