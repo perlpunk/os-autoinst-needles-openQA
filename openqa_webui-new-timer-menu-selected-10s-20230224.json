@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 425,
+      "height": 108,
+      "xpos": 594,
+      "width": 64
+    },
+    {
+      "click_point": {
+        "xpos": 28,
+        "ypos": 26
+      },
+      "height": 52,
+      "xpos": 482,
+      "type": "match",
+      "ypos": 563,
+      "width": 56
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "new-timer-menu-selected-10s"
+  ]
+}
